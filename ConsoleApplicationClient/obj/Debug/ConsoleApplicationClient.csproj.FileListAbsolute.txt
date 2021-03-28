@@ -1,0 +1,9 @@
+c:\users\paweł\documents\visual studio 2013\Projects\AsynchServer\ConsoleApplicationClient\bin\Debug\ConsoleApplicationClient.exe.config
+c:\users\paweł\documents\visual studio 2013\Projects\AsynchServer\ConsoleApplicationClient\bin\Debug\ConsoleApplicationClient.exe
+c:\users\paweł\documents\visual studio 2013\Projects\AsynchServer\ConsoleApplicationClient\bin\Debug\ConsoleApplicationClient.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\AsynchServer\ConsoleApplicationClient\obj\Debug\ConsoleApplicationClient.exe
+c:\users\paweł\documents\visual studio 2013\Projects\AsynchServer\ConsoleApplicationClient\obj\Debug\ConsoleApplicationClient.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\AsynchServer\ConsoleApplicationClient\obj\Debug\ConsoleApplicationClient.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Desktop\polsl-zadania\programowanie\6\AsynchServer\ConsoleApplicationClient\bin\Debug\ConsoleApplicationClient.exe.config
+C:\Users\Paweł\Desktop\polsl-zadania\programowanie\6\AsynchServer\ConsoleApplicationClient\obj\Debug\ConsoleApplicationClient.exe
+C:\Users\Paweł\Desktop\polsl-zadania\programowanie\6\AsynchServer\ConsoleApplicationClient\obj\Debug\ConsoleApplicationClient.pdb
